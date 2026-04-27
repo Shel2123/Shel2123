@@ -1,5 +1,5 @@
 #  About Me:
-- Hi, I’m @Shel2123<br>- I’m interested in backend development and ML<br>- I’m currently studing in HSE DSBA
+<br>- Hi, I’m @Shel2123<br>- I’m interested in backend development and ML<br>- I’m currently studing in HSE DSBA
 
 
 ## Socials:
