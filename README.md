@@ -58,12 +58,14 @@ Interested in backend development, ML and low-level systems programming.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Polars](https://img.shields.io/badge/polars-%23CD792C.svg?style=for-the-badge&logo=polars&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=fff)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-%23FF6600.svg?style=for-the-badge&logo=Yandex&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-%23189fdd.svg?style=for-the-badge&logoColor=white)
 ![Optuna](https://img.shields.io/badge/optuna-%2300C4CC.svg?style=for-the-badge&logo=optuna&logoColor=white)
+![cuDF](https://img.shields.io/badge/cuDF-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+[![cuML](https://img.shields.io/badge/cuML-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
  
 **Go**
