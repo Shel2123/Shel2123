@@ -10,6 +10,7 @@ Interested in backend development, ML and low-level systems programming.
 ### ML
 | Project | Description | Stack |
 |---|---|---|
+| [Dota2 Win Prediction](https://github.com/Shel2123/Dota2-Win-Prediction) | Predicting Dota 2 match outcomes with GPU-accelerated logistic regression on hero picks, chat texts and gold/exp timelines | Python, NumPy, scikit-learn, RAPIDS, Optuna, cuML, polars, pandas, TF-IDF |
 | [Chronoise](https://github.com/Shel2123/Chronoise) | Synthetic noise-driven time series with controllable structure for ML benchmarks. Built as part of my research on structural break detection. | Python, NumPy, statistics |
 | [ScenarioNoveltyChangePoints](https://github.com/Shel2123/ScenarioNoveltyChangePoints) | Analyzes books/scenarios and measures the novelty of each paragraph or group of paragraphs. | Python, NLP |
 | [House Prices — Advanced Regression](https://github.com/Shel2123/House-prices---advanced-regression) | Kaggle-style regression pipeline: feature engineering, model selection, ensembling. | Python, scikit-learn |
