@@ -13,21 +13,21 @@ Interested in backend development, ML and low-level systems programming.
 | [Dota2 Win Prediction](https://github.com/Shel2123/Dota2-Win-Prediction) | Predicting Dota 2 match outcomes with GPU-accelerated logistic regression on hero picks, chat texts and gold/exp timelines | Python, NumPy, scikit-learn, RAPIDS, Optuna, cuML, polars, pandas, TF-IDF |
 | [Chronoise](https://github.com/Shel2123/Chronoise) | Synthetic noise-driven time series with controllable structure for ML benchmarks. Built as part of my research on structural break detection. | Python, NumPy, statistics |
 | [ScenarioNoveltyChangePoints](https://github.com/Shel2123/ScenarioNoveltyChangePoints) | Analyzes books/scenarios and measures the novelty of each paragraph or group of paragraphs. | Python, NLP |
-| [House Prices — Advanced Regression](https://github.com/Shel2123/House-prices---advanced-regression) | Kaggle-style regression pipeline: feature engineering, model selection, ensembling. | Python, scikit-learn |
-| [car-price-prediction-TF-skl](https://github.com/Shel2123/car-price-prediction-TF-skl) | Car price prediction with TensorFlow and scikit-learn. | Python, TensorFlow, scikit-learn |
+| [House Prices - Advanced Regression](https://github.com/Shel2123/House-prices---advanced-regression) | Kaggle-style regression pipeline: feature engineering, model selection, ensembling. | Python, scikit-learn |
+| [car price prediction TF skl](https://github.com/Shel2123/car-price-prediction-TF-skl) | Car price prediction with TensorFlow and scikit-learn. | Python, TensorFlow, scikit-learn |
 | [regression_visualisation](https://github.com/Shel2123/regression_visualisation) | 3D visualization of a linear regression hyperplane and gradient descent. | Python, Matplotlib/Plotly |
 
 ### Computer Vision
  
 | Project | Description | Stack |
 |---|---|---|
-| [Clash_Royale_EmojiDetection](https://github.com/Shel2123/Clash_Royale_EmojiDetection) | Detecting in-game emojis on Clash Royale screenshots/frames. | Python, CV |
+| [ClashRoyale Emoji Detection](https://github.com/Shel2123/Clash_Royale_EmojiDetection) | Detecting in-game emojis on Clash Royale screenshots/frames. | Python, CV |
 
 ### Backend
  
 | Project | Description | Stack |
 |---|---|---|
-| [API_Based_Prediction](https://github.com/Shel2123/API_Based_Prediction) | Microservice app: Python frontend → Go (Gin) gateway → FastAPI service with an ML model. | Go, Gin, FastAPI, Python |
+| [API Based Prediction](https://github.com/Shel2123/API_Based_Prediction) | Microservice app: Python frontend → Go (Gin) gateway → FastAPI service with an ML model. | Go, Gin, FastAPI, Python |
 
 ### C/C++ & Systems
  
@@ -40,7 +40,7 @@ Interested in backend development, ML and low-level systems programming.
  
 | Project | Description | Stack |
 |---|---|---|
-| [Autoclicker](https://github.com/Shel2123/Autoclicker) | Lightweight Windows tool to automate keyboard key sequences with custom delays and hold durations — for repetitive tasks, testing or gaming. | C#, WinAPI |
+| [Autoclicker](https://github.com/Shel2123/Autoclicker) | Lightweight Windows tool to automate keyboard key sequences with custom delays and hold durations - for repetitive tasks, testing or gaming. | C#, WinAPI |
 
 ### Python Utilities
  
@@ -92,6 +92,7 @@ Interested in backend development, ML and low-level systems programming.
  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/docker%20compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/docker%20hub-%23066da5.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
