@@ -24,11 +24,11 @@ Interested in backend development, ML and low-level systems programming.
 |---|---|---|
 | [ClashRoyale Emoji Detection](https://github.com/Shel2123/Clash_Royale_EmojiDetection) | Detecting in-game emojis on Clash Royale screenshots/frames. | Python, CV |
 
-### Backend
+### MLops (backend)
  
 | Project | Description | Stack |
 |---|---|---|
-| [API Based Prediction](https://github.com/Shel2123/API_Based_Prediction) | Microservice app: Python frontend → Go (Gin) gateway → FastAPI service with an ML model. | Go, Gin, FastAPI, Python |
+| [Credit Scoring](https://github.com/Shel2123/API_Based_Prediction) | Microservice app: Python frontend → Go (Gin) gateway → FastAPI service with an ML model. | Go, Gin, FastAPI, Python |
 
 ### C/C++ & Systems
  
