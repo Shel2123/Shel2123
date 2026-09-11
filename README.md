@@ -28,7 +28,7 @@ Interested in backend development, ML and low-level systems programming.
  
 | Project | Description | Stack |
 |---|---|---|
-| [Credit Scoring](https://github.com/Shel2123/API_Based_Prediction) | Microservice app: Python frontend → Go (Gin) gateway → FastAPI service with an ML model. | Go, Gin, FastAPI, Python |
+| [Credit Scoring](https://github.com/Shel2123/CreditScoring) | Microservice app: Python frontend → Go (Gin) gateway → FastAPI service with an ML model. | Go, Gin, FastAPI, Python |
 
 ### C/C++ & Systems
  
